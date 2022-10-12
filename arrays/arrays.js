@@ -168,7 +168,7 @@ var myArrSlice = [
   "yellow",
   "white",
 ];
-var myArrSlice2 = myArrSlice.slice(2, 1);
+var myArrSlice2 = myArrSlice.slice(7, 9);
 console.log(myArrSlice2);
 
 // Reverse
